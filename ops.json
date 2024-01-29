@@ -1,1 +1,14 @@
-[{}]
+[
+  {
+    "uuid": "f0edb5bb-5545-3f1f-a54c-82d25b799c89",
+    "name": "FlighStick",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6da37a11-19ac-3a11-bc92-3f427fac3346",
+    "name": "HENG_KYT42",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
